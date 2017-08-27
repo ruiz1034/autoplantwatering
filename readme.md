@@ -2,7 +2,6 @@
 ## Ultimate Goal
 My Goal is to built
 - Auto Plant Watering
-- Donde
 
 ## Goal
 Goal of this session is to be able to get experience of Arduino
@@ -99,11 +98,10 @@ This Auto Plant Watering will be used for me to take care of plants I have. All 
 Customize Auto Plant Waterling and upload to github
 
 ## Customization
-何かしらの音楽にする
+- TBD / 何かしらの音楽にする
 
 ## Github
-
-
+- Updated
 
 ## Refs
 - [圧電スピーカをつないで音を鳴らす](http://www.geocities.jp/zattouka/GarageHouse/micon/Arduino/Melody/Melody.htm)
